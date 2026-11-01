@@ -2,7 +2,7 @@
 
 A scratch repository for the **dsh-superagent** research prototype.
 
-This repostory exists so the agent can be tried out without touching a real
+This repository exists so the agent can be tried out without touching a real
 project. Nothing here matters; break it freely.
 
 ## What lives here
